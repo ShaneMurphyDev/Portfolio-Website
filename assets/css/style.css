@@ -97,7 +97,7 @@ header {
 }
 
 .logo {
-    background: url("/assets/images/logo.png");
+    background: url("../images/logo.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
